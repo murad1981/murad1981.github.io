@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "257HAXMV7X.sa.thiqah.uniLinks",
+                "paths": [ "/sales/details/", "/sales/promotions/latest/*"]
+            }
+        ]
+    }
+}
