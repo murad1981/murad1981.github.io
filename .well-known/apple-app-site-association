@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "ABCDE12345.com.example.app", "ABCDE12345.com.example.app2" ],
+             "appIDs": [ "257HAXMV7X.sa.thiqah.uniLinks"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -28,11 +28,11 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "ABCDE12345.com.example.app" ]
+      "apps": [ "257HAXMV7X.sa.thiqah.uniLinks" ]
    },
 
 
     "appclips": {
-        "apps": ["ABCED12345.com.example.MyApp.Clip"]
+        "apps": ["257HAXMV7X.sa.thiqah.uniLinks"]
     }
 }
