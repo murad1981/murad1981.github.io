@@ -5,7 +5,7 @@
              "appIDs": ["257HAXMV7X.sa.thiqah.uniLinks"],
              "components": [
                {
-                  "/": "/discount/*",
+                  "/": "/discount",
                   "?": { "id": "*" },
                   "comment": "Matches any URL with a path that starts with /discount/ and that has a query item with name 'id' and a value of a set of characters."
                }
